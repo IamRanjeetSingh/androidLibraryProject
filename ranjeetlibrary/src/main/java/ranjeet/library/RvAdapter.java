@@ -12,8 +12,8 @@ import java.util.List;
 
 public abstract class RvAdapter<T> extends RecyclerView.Adapter {
 
-    List<T> dataSet;
-    List<WeakReference<RecyclerView.ViewHolder>> holders;
+    private List<T> dataSet;
+    private List<WeakReference<RecyclerView.ViewHolder>> holders;
 
     public RvAdapter(List<T> dataSet){
         this.holders = new ArrayList<>();
