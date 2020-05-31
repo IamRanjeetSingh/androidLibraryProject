@@ -1,0 +1,3 @@
+rootProject.name='LibraryProject'
+include ':app'
+include ':ranjeetlibrary'

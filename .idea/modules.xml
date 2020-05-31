@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidStudioProjects-LibraryProject.iml" filepath="$PROJECT_DIR$/AndroidStudioProjects-LibraryProject.iml" group="LibraryProject" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryProject.iml" filepath="$PROJECT_DIR$/LibraryProject.iml" group="LibraryProject" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="LibraryProject/app" />
+      <module fileurl="file://$PROJECT_DIR$/ranjeetlibrary/ranjeetlibrary.iml" filepath="$PROJECT_DIR$/ranjeetlibrary/ranjeetlibrary.iml" group="LibraryProject/ranjeetlibrary" />
+    </modules>
+  </component>
+</project>
